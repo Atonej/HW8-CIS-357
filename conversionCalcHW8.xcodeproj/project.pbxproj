@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D417000C21915A2100E7FD99 /* AnthonyAtone Project.c in Sources */ = {isa = PBXBuildFile; fileRef = D417FFF721915A2100E7FD99 /* AnthonyAtone Project.c */; };
+		D417000D21915A2100E7FD99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FFF921915A2100E7FD99 /* AppDelegate.swift */; };
+		D417000E21915A2100E7FD99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D417FFFA21915A2100E7FD99 /* Assets.xcassets */; };
+		D417000F21915A2100E7FD99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D417FFFB21915A2100E7FD99 /* LaunchScreen.storyboard */; };
+		D417001021915A2100E7FD99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D417FFFD21915A2100E7FD99 /* Main.storyboard */; };
+		D417001121915A2100E7FD99 /* Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FFFF21915A2100E7FD99 /* Conversion.swift */; };
+		D417001221915A2100E7FD99 /* ConversionCalcButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000021915A2100E7FD99 /* ConversionCalcButton.swift */; };
+		D417001321915A2100E7FD99 /* ConversionCalcLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000121915A2100E7FD99 /* ConversionCalcLabel.swift */; };
+		D417001421915A2100E7FD99 /* ConversionCalcTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000221915A2100E7FD99 /* ConversionCalcTextField.swift */; };
+		D417001521915A2100E7FD99 /* DecimalMinusTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000321915A2100E7FD99 /* DecimalMinusTextField.swift */; };
+		D417001621915A2100E7FD99 /* HistoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000421915A2100E7FD99 /* HistoryTableViewCell.swift */; };
+		D417001721915A2100E7FD99 /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000521915A2100E7FD99 /* HistoryTableViewController.swift */; };
+		D417001821915A2100E7FD99 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D417000721915A2100E7FD99 /* Info.plist */; };
+		D417001921915A2100E7FD99 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D417000821915A2100E7FD99 /* README.md */; };
+		D417001A21915A2100E7FD99 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000921915A2100E7FD99 /* SettingsViewController.swift */; };
+		D417001B21915A2100E7FD99 /* UnitsAndModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000A21915A2100E7FD99 /* UnitsAndModes.swift */; };
+		D417001C21915A2100E7FD99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417000B21915A2100E7FD99 /* ViewController.swift */; };
 		D417FF2E2191307E00E7FD99 /* conversionCalcHW8Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF2D2191307E00E7FD99 /* conversionCalcHW8Tests.swift */; };
 		D417FF392191307E00E7FD99 /* conversionCalcHW8UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF382191307E00E7FD99 /* conversionCalcHW8UITests.swift */; };
-		D417FF58219130F100E7FD99 /* ConversionCalcButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF46219130F000E7FD99 /* ConversionCalcButton.swift */; };
-		D417FF59219130F100E7FD99 /* AnthonyAtone Project.c in Sources */ = {isa = PBXBuildFile; fileRef = D417FF48219130F000E7FD99 /* AnthonyAtone Project.c */; };
-		D417FF5A219130F100E7FD99 /* Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF49219130F000E7FD99 /* Conversion.swift */; };
-		D417FF5B219130F100E7FD99 /* DecimalMinusTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF4A219130F000E7FD99 /* DecimalMinusTextField.swift */; };
-		D417FF5C219130F100E7FD99 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF4B219130F000E7FD99 /* SettingsViewController.swift */; };
-		D417FF5D219130F100E7FD99 /* ConversionCalcTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF4C219130F000E7FD99 /* ConversionCalcTextField.swift */; };
-		D417FF60219130F100E7FD99 /* UnitsAndModes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF50219130F100E7FD99 /* UnitsAndModes.swift */; };
-		D417FF62219130F100E7FD99 /* ConversionCalcLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF52219130F100E7FD99 /* ConversionCalcLabel.swift */; };
-		D417FF63219130F100E7FD99 /* HistoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF53219130F100E7FD99 /* HistoryTableViewCell.swift */; };
-		D417FF65219130F100E7FD99 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D417FF55219130F100E7FD99 /* README.md */; };
-		D417FF66219130F100E7FD99 /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF56219130F100E7FD99 /* HistoryTableViewController.swift */; };
-		D417FF692191319B00E7FD99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D417FF682191319B00E7FD99 /* Main.storyboard */; };
-		D417FF6B219131A400E7FD99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D417FF6A219131A400E7FD99 /* LaunchScreen.storyboard */; };
-		D417FF782191496900E7FD99 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D417FF742191496900E7FD99 /* Info.plist */; };
-		D417FF792191496900E7FD99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF752191496900E7FD99 /* ViewController.swift */; };
-		D417FF7A2191496900E7FD99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D417FF762191496900E7FD99 /* Assets.xcassets */; };
-		D417FF7B2191496900E7FD99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D417FF772191496900E7FD99 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +46,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D417000021915A2100E7FD99 /* ConversionCalcButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcButton.swift; sourceTree = "<group>"; };
+		D417000121915A2100E7FD99 /* ConversionCalcLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcLabel.swift; sourceTree = "<group>"; };
+		D417000221915A2100E7FD99 /* ConversionCalcTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcTextField.swift; sourceTree = "<group>"; };
+		D417000321915A2100E7FD99 /* DecimalMinusTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecimalMinusTextField.swift; sourceTree = "<group>"; };
+		D417000421915A2100E7FD99 /* HistoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewCell.swift; sourceTree = "<group>"; };
+		D417000521915A2100E7FD99 /* HistoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
+		D417000621915A2100E7FD99 /* HW3-Solution-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "HW3-Solution-Bridging-Header.h"; sourceTree = "<group>"; };
+		D417000721915A2100E7FD99 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D417000821915A2100E7FD99 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D417000921915A2100E7FD99 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		D417000A21915A2100E7FD99 /* UnitsAndModes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitsAndModes.swift; sourceTree = "<group>"; };
+		D417000B21915A2100E7FD99 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D417FF152191307E00E7FD99 /* conversionCalcHW8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = conversionCalcHW8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D417FF292191307E00E7FD99 /* conversionCalcHW8Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = conversionCalcHW8Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D417FF2D2191307E00E7FD99 /* conversionCalcHW8Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conversionCalcHW8Tests.swift; sourceTree = "<group>"; };
@@ -53,25 +65,13 @@
 		D417FF342191307E00E7FD99 /* conversionCalcHW8UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = conversionCalcHW8UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D417FF382191307E00E7FD99 /* conversionCalcHW8UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conversionCalcHW8UITests.swift; sourceTree = "<group>"; };
 		D417FF3A2191307E00E7FD99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D417FF46219130F000E7FD99 /* ConversionCalcButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcButton.swift; sourceTree = "<group>"; };
-		D417FF47219130F000E7FD99 /* AnthonyAtone Project.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AnthonyAtone Project.h"; sourceTree = "<group>"; };
-		D417FF48219130F000E7FD99 /* AnthonyAtone Project.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "AnthonyAtone Project.c"; sourceTree = "<group>"; };
-		D417FF49219130F000E7FD99 /* Conversion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Conversion.swift; sourceTree = "<group>"; };
-		D417FF4A219130F000E7FD99 /* DecimalMinusTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DecimalMinusTextField.swift; sourceTree = "<group>"; };
-		D417FF4B219130F000E7FD99 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
-		D417FF4C219130F000E7FD99 /* ConversionCalcTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcTextField.swift; sourceTree = "<group>"; };
-		D417FF4D219130F000E7FD99 /* HW3-Solution-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "HW3-Solution-Bridging-Header.h"; sourceTree = "<group>"; };
-		D417FF50219130F100E7FD99 /* UnitsAndModes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitsAndModes.swift; sourceTree = "<group>"; };
-		D417FF52219130F100E7FD99 /* ConversionCalcLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversionCalcLabel.swift; sourceTree = "<group>"; };
-		D417FF53219130F100E7FD99 /* HistoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewCell.swift; sourceTree = "<group>"; };
-		D417FF55219130F100E7FD99 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D417FF56219130F100E7FD99 /* HistoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
-		D417FF682191319B00E7FD99 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		D417FF6A219131A400E7FD99 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D417FF742191496900E7FD99 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../../CIS.357.HW8/Info.plist; sourceTree = "<group>"; };
-		D417FF752191496900E7FD99 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../CIS.357.HW8/ViewController.swift; sourceTree = "<group>"; };
-		D417FF762191496900E7FD99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../CIS.357.HW8/Assets.xcassets; sourceTree = "<group>"; };
-		D417FF772191496900E7FD99 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../CIS.357.HW8/AppDelegate.swift; sourceTree = "<group>"; };
+		D417FFF721915A2100E7FD99 /* AnthonyAtone Project.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "AnthonyAtone Project.c"; sourceTree = "<group>"; };
+		D417FFF821915A2100E7FD99 /* AnthonyAtone Project.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "AnthonyAtone Project.h"; sourceTree = "<group>"; };
+		D417FFF921915A2100E7FD99 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D417FFFA21915A2100E7FD99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D417FFFC21915A2100E7FD99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D417FFFE21915A2100E7FD99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D417FFFF21915A2100E7FD99 /* Conversion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Conversion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +102,7 @@
 		D417FF0C2191307E00E7FD99 = {
 			isa = PBXGroup;
 			children = (
-				D417FF172191307E00E7FD99 /* conversionCalcHW8 */,
+				D417FFF621915A2100E7FD99 /* conversionCalcHW8 */,
 				D417FF2C2191307E00E7FD99 /* conversionCalcHW8Tests */,
 				D417FF372191307E00E7FD99 /* conversionCalcHW8UITests */,
 				D417FF162191307E00E7FD99 /* Products */,
@@ -117,32 +117,6 @@
 				D417FF342191307E00E7FD99 /* conversionCalcHW8UITests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		D417FF172191307E00E7FD99 /* conversionCalcHW8 */ = {
-			isa = PBXGroup;
-			children = (
-				D417FF772191496900E7FD99 /* AppDelegate.swift */,
-				D417FF762191496900E7FD99 /* Assets.xcassets */,
-				D417FF742191496900E7FD99 /* Info.plist */,
-				D417FF752191496900E7FD99 /* ViewController.swift */,
-				D417FF48219130F000E7FD99 /* AnthonyAtone Project.c */,
-				D417FF47219130F000E7FD99 /* AnthonyAtone Project.h */,
-				D417FF49219130F000E7FD99 /* Conversion.swift */,
-				D417FF6A219131A400E7FD99 /* LaunchScreen.storyboard */,
-				D417FF682191319B00E7FD99 /* Main.storyboard */,
-				D417FF46219130F000E7FD99 /* ConversionCalcButton.swift */,
-				D417FF52219130F100E7FD99 /* ConversionCalcLabel.swift */,
-				D417FF4C219130F000E7FD99 /* ConversionCalcTextField.swift */,
-				D417FF4A219130F000E7FD99 /* DecimalMinusTextField.swift */,
-				D417FF53219130F100E7FD99 /* HistoryTableViewCell.swift */,
-				D417FF56219130F100E7FD99 /* HistoryTableViewController.swift */,
-				D417FF4D219130F000E7FD99 /* HW3-Solution-Bridging-Header.h */,
-				D417FF55219130F100E7FD99 /* README.md */,
-				D417FF4B219130F000E7FD99 /* SettingsViewController.swift */,
-				D417FF50219130F100E7FD99 /* UnitsAndModes.swift */,
-			);
-			path = conversionCalcHW8;
 			sourceTree = "<group>";
 		};
 		D417FF2C2191307E00E7FD99 /* conversionCalcHW8Tests */ = {
@@ -161,6 +135,32 @@
 				D417FF3A2191307E00E7FD99 /* Info.plist */,
 			);
 			path = conversionCalcHW8UITests;
+			sourceTree = "<group>";
+		};
+		D417FFF621915A2100E7FD99 /* conversionCalcHW8 */ = {
+			isa = PBXGroup;
+			children = (
+				D417FFF721915A2100E7FD99 /* AnthonyAtone Project.c */,
+				D417FFF821915A2100E7FD99 /* AnthonyAtone Project.h */,
+				D417FFF921915A2100E7FD99 /* AppDelegate.swift */,
+				D417FFFA21915A2100E7FD99 /* Assets.xcassets */,
+				D417FFFB21915A2100E7FD99 /* LaunchScreen.storyboard */,
+				D417FFFD21915A2100E7FD99 /* Main.storyboard */,
+				D417FFFF21915A2100E7FD99 /* Conversion.swift */,
+				D417000021915A2100E7FD99 /* ConversionCalcButton.swift */,
+				D417000121915A2100E7FD99 /* ConversionCalcLabel.swift */,
+				D417000221915A2100E7FD99 /* ConversionCalcTextField.swift */,
+				D417000321915A2100E7FD99 /* DecimalMinusTextField.swift */,
+				D417000421915A2100E7FD99 /* HistoryTableViewCell.swift */,
+				D417000521915A2100E7FD99 /* HistoryTableViewController.swift */,
+				D417000621915A2100E7FD99 /* HW3-Solution-Bridging-Header.h */,
+				D417000721915A2100E7FD99 /* Info.plist */,
+				D417000821915A2100E7FD99 /* README.md */,
+				D417000921915A2100E7FD99 /* SettingsViewController.swift */,
+				D417000A21915A2100E7FD99 /* UnitsAndModes.swift */,
+				D417000B21915A2100E7FD99 /* ViewController.swift */,
+			);
+			path = conversionCalcHW8;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,11 +268,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D417FF782191496900E7FD99 /* Info.plist in Resources */,
-				D417FF65219130F100E7FD99 /* README.md in Resources */,
-				D417FF692191319B00E7FD99 /* Main.storyboard in Resources */,
-				D417FF6B219131A400E7FD99 /* LaunchScreen.storyboard in Resources */,
-				D417FF7A2191496900E7FD99 /* Assets.xcassets in Resources */,
+				D417001821915A2100E7FD99 /* Info.plist in Resources */,
+				D417001021915A2100E7FD99 /* Main.storyboard in Resources */,
+				D417001921915A2100E7FD99 /* README.md in Resources */,
+				D417000E21915A2100E7FD99 /* Assets.xcassets in Resources */,
+				D417000F21915A2100E7FD99 /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,18 +297,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D417FF7B2191496900E7FD99 /* AppDelegate.swift in Sources */,
-				D417FF5D219130F100E7FD99 /* ConversionCalcTextField.swift in Sources */,
-				D417FF5A219130F100E7FD99 /* Conversion.swift in Sources */,
-				D417FF59219130F100E7FD99 /* AnthonyAtone Project.c in Sources */,
-				D417FF5B219130F100E7FD99 /* DecimalMinusTextField.swift in Sources */,
-				D417FF792191496900E7FD99 /* ViewController.swift in Sources */,
-				D417FF60219130F100E7FD99 /* UnitsAndModes.swift in Sources */,
-				D417FF62219130F100E7FD99 /* ConversionCalcLabel.swift in Sources */,
-				D417FF66219130F100E7FD99 /* HistoryTableViewController.swift in Sources */,
-				D417FF63219130F100E7FD99 /* HistoryTableViewCell.swift in Sources */,
-				D417FF5C219130F100E7FD99 /* SettingsViewController.swift in Sources */,
-				D417FF58219130F100E7FD99 /* ConversionCalcButton.swift in Sources */,
+				D417001421915A2100E7FD99 /* ConversionCalcTextField.swift in Sources */,
+				D417001121915A2100E7FD99 /* Conversion.swift in Sources */,
+				D417001621915A2100E7FD99 /* HistoryTableViewCell.swift in Sources */,
+				D417001A21915A2100E7FD99 /* SettingsViewController.swift in Sources */,
+				D417000D21915A2100E7FD99 /* AppDelegate.swift in Sources */,
+				D417001521915A2100E7FD99 /* DecimalMinusTextField.swift in Sources */,
+				D417001C21915A2100E7FD99 /* ViewController.swift in Sources */,
+				D417001B21915A2100E7FD99 /* UnitsAndModes.swift in Sources */,
+				D417001721915A2100E7FD99 /* HistoryTableViewController.swift in Sources */,
+				D417001321915A2100E7FD99 /* ConversionCalcLabel.swift in Sources */,
+				D417001221915A2100E7FD99 /* ConversionCalcButton.swift in Sources */,
+				D417000C21915A2100E7FD99 /* AnthonyAtone Project.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +342,25 @@
 			targetProxy = D417FF352191307E00E7FD99 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D417FFFB21915A2100E7FD99 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D417FFFC21915A2100E7FD99 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		D417FFFD21915A2100E7FD99 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D417FFFE21915A2100E7FD99 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		D417FF3B2191307E00E7FD99 /* Debug */ = {
